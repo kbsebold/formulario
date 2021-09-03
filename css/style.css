@@ -10,4 +10,5 @@ main {
 
 label, textarea {
     display:block;
+    margin:0 auto;
 }
